@@ -1,4 +1,4 @@
-
+[English](./README.md) • [Türkçe](./READMETR.md)
 
 ## 📚 Categories
 
